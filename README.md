@@ -14,3 +14,4 @@ Following the tut here http://start.jcolemorrison.com/how-i-setup-angular-node-p
 ###Note:###
 1. With the release of Express 4.0.0 it looks like you need to do sudo npm install -g express-generator.
 [stackoverflow](http://stackoverflow.com/questions/23002448/express-command-not-found)
+2. Use [this](https://gist.github.com/jeffscottward/10419517) by [Jeff Scott Ward](https://github.com/jeffscottward) to work with Express 4.0.0
